@@ -44,23 +44,23 @@ This analysis aims to help an e-commerce business:
 ### Example Insights  
 
 1. **Best Month for Sales**  
-   - ![Monthly Sales Chart](1.png)  
+   - ![Monthly Sales Chart](1.jpg)  
    December was the best month for sales, generating a total revenue of approximately **9.5B** USD, likely due to holiday shopping.  
 
 2. **City with the Best Sales**  
-   - ![City Sales Chart](2.png)  
+   - ![City Sales Chart](2.jpg)  
    [San Francisco] topped sales with a total of **1.65B** USD, benefiting from ["high population density"].  
 
 3. **Optimal Time for Ad Display**  
-   - ![Ad Timing Analysis](3.png)  
+   - ![Ad Timing Analysis](3.jpg)  
    The most effective time for displaying ads is between **10 AM to 9 PM**, when customer activity is highest.  
 
 4. **Products Most Often Sold Together**  
-   - ![Product Pairing Chart](4.png)  
+   - ![Product Pairing Chart](4.jpg)  
    Items like **[Lightning Charging Cable]** and **[AAA Batteries (4-pack)]** are frequently purchased together, suggesting an opportunity for bundling promotions.  
 
 5. **Top-Selling Products**  
-   - ![Top Products Chart](5.png)  
+   - ![Top Products Chart](5.jpg)  
    The most sold product was **[AAA Batteries (4-pack)]**, likely due to ["seasonal demand or competitive pricing"].  
 
 ---
