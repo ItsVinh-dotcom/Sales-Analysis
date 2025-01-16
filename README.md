@@ -24,18 +24,3 @@ We used a dataset from [insert dataset source] and analyzed the following key qu
 5. **What products sold the most? Why do you think it sold the most?**  
    - [Insert image showing the analysis here]  
    The top-selling product was [product name], likely due to factors such as [reasons, e.g., "competitive pricing, seasonal demand, or superior quality"].  
-
-## Project Files  
-- **Notebook**: [Link to Jupyter Notebook or Python script]  
-- **Dataset**: [Link to dataset if publicly available]  
-- **Results**: [Include links to visualizations or additional reports]  
-
-## Getting Started  
-### Prerequisites  
-- Python 3.x  
-- Required Libraries: pandas, numpy, matplotlib, seaborn, [any other dependencies]  
-
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your_username/sales-analysis.git
