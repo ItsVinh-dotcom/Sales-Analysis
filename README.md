@@ -41,7 +41,7 @@ This analysis aims to help an e-commerce business:
 
 ---
 
-### Example Insights  
+### Insights  
 
 1. **Best Month for Sales**  
    - ![Monthly Sales Chart](1.jpg)  
