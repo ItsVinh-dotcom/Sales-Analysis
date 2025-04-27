@@ -25,7 +25,7 @@ How can the business better understand its sales performance across time, locati
 - Peak shopping hours occur between 18:00 and 20:00.
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](4. images/dashboard.jpg)
+![Dashboard](4.%20images/dashboard.jpg)
 
 
 ## 🚀 How to Use
