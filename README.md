@@ -27,6 +27,7 @@ How can the business better understand its sales performance across time, locati
 ## 📸 Dashboard Preview
 ![Dashboard Overview](images/dashboard.jpg)
 
+
 ## 🚀 How to Use
 - Open `2. notebook/sales_analysis.ipynb` to review the data cleaning and exploratory analysis process.
 - Open `3. dashboard/Sales Analysis Dashboard.pbix` in Power BI to interact with the final dashboard.
